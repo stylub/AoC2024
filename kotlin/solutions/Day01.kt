@@ -1,3 +1,5 @@
+package solutions
+
 import utils.println
 import utils.readInput
 import kotlin.math.abs
