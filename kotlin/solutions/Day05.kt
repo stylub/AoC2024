@@ -73,12 +73,10 @@ fun main() {
         val cantBefore = preProcess(order)
         val pageComparator = object : Comparator<Int> {
             override fun compare(num1: Int, num2: Int): Int {
-                if(cantBefore[num1]?.contains(num2) == true){
-                    return 1
-                }
-                else
-                {
-                    return -1
+                return if(cantBefore[num1]?.contains(num2) == true){
+                    1
+                } else {
+                    -1
                 }
             }
         }

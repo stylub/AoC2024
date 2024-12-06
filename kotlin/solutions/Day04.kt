@@ -25,7 +25,7 @@ fun main() {
         val horizontal = mutableListOf<String>()
         for (j in input.indices) {
             for (i in 0..input[0].length - 4) {
-                horizontal.addLast("" + input[j][i] + input[j][i + 1] + input[j][i + 2] + input[j][i + 3])
+                horizontal.add("" + input[j][i] + input[j][i + 1] + input[j][i + 2] + input[j][i + 3])
             }
         }
 
