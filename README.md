@@ -17,4 +17,5 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Kotlin](https://ko
 [![Day](https://badgen.net/badge/11/%E2%98%85%E2%98%85/green)](kotlin/solutions/Day11.kt)
 [![Day](https://badgen.net/badge/12/%E2%98%85%E2%98%85/green)](kotlin/solutions/Day12.kt)
 [![Day](https://badgen.net/badge/13/%E2%98%85%E2%98%85/green)](kotlin/solutions/Day13.kt)
+[![Day](https://badgen.net/badge/14/%E2%98%85%E2%98%85/green)](kotlin/solutions/Day14.kt)
 <!--/SOLUTIONS-->
