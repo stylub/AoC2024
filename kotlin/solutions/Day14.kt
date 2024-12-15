@@ -72,7 +72,7 @@ fun main() {
         val wide = 101
         val tall = 103
 
-        for(i in 0..<10000) {
+        for(i in 0..<100) {
             val picture = MutableList(tall) { MutableList(wide) { 0 } }
             val newRobotsState = mutableListOf<Pair<Pair<Int, Int>, Pair<Int, Int>>>()
             robots.forEach { robot ->
