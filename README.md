@@ -20,6 +20,6 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Kotlin](https://ko
 [![Day](https://badgen.net/badge/14/%E2%98%85%E2%98%85/green)](kotlin/solutions/Day14.kt)
 [![Day](https://badgen.net/badge/15/%E2%98%85%E2%98%85/green)](kotlin/solutions/Day15.kt)
 [![Day](https://badgen.net/badge/16/%E2%98%85%E2%98%85/green)](kotlin/solutions/Day16.kt)
-[![Day](https://badgen.net/badge/17/%E2%98%85/green)](kotlin/solutions/Day16.kt)
-[![Day](https://badgen.net/badge/18/%E2%98%85%E2%98%85/green)](kotlin/solutions/Day16.kt)
+[![Day](https://badgen.net/badge/17/%E2%98%85/green)](kotlin/solutions/Day17.kt)
+[![Day](https://badgen.net/badge/18/%E2%98%85%E2%98%85/green)](kotlin/solutions/Day18.kt)
 <!--/SOLUTIONS-->
